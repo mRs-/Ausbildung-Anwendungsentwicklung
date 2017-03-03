@@ -112,3 +112,9 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 # GIT
 
 # Sauberen Code schreiben
+
+# Deployment
+
+# Server Architektur
+
+# Caching
