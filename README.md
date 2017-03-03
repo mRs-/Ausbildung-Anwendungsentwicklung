@@ -92,6 +92,8 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 
 ## Enums und Structs
 
+## Collectiontypes
+
 ## Interfaces
 
 ## Error Handling
