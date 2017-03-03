@@ -1,5 +1,5 @@
 # Ausbildung-Anwendungsentwicklung
-Bereiche die man als IT-Fachinformatiker Anwendungsentwicklung beherrschen muss, um eine Full-Stack - iOS App schreiben möchte.
+Bereiche die man als IT-Fachinformatiker Anwendungsentwicklung beherrschen muss, um eine Full-Stack - iOS App schreiben zu können.
 
 In diesem Dokument geht es darum, was man während der Ausbildung zum IT-Fachinformatiker alles wissen sollte, um eine App in iOS mit einem PHP-Backend umsetzen zu können.
 
@@ -186,3 +186,38 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 # Konzepte
 ## RAD - Rapid Application Development
 ## MVC - Model View Controler
+
+
+# iOS - Lernreihenfolge
+## Xcode 8 - Navigieren und Interface
+## Labels
+## Textfields
+## Buttons
+## Images [Bilder]
+## Übungs-App erstellen: Hundejahre berechnen [Textfeld-Abfrage * Jahre, per Klick auf Button, Ausgabe in einem Label]
+## Variablen
+## Arrays
+## Dictionaries
+## If - Abfrage / Verzweigung
+## Select Case - Verzweigungen
+## While - Schleife
+## For - Schleife
+## Klassen
+## Objekte
+## Optionals
+## Auto Layout
+## Navigation Bars
+## TableViews
+## Daten speichern
+## View Controllers
+## Keyboard bei iOS
+## Inhalte aus dem Internet laden
+# Sonstige iOS - Themen
+## Animationen
+## Apple Karten integrieren
+## Audio 
+## Wischgesten 
+## CoreData [schwer für Anfänger!]
+## APIs
+## SpriteKit
+
