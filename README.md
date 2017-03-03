@@ -1,7 +1,7 @@
 # Ausbildung-Anwendungsentwicklung
-Bereiche die man als Anwendungsentwickler können muss, wenn man eine Full Stack iOS App schreiben möchte.
+Bereiche die man als IT-Fachinformatiker Anwendungsentwicklung können muss, wenn man eine Full Stack iOS App schreiben möchte.
 
-In dem Dokument soll es darum gehen, was man in seiner Zeit in einer Ausbildung als Fachinformatiker alles wissen sollte um eine App in iOS mit einem PHP Backend umsetzen zu können.
+In dem Dokument soll es darum gehen, was man in seiner Zeit in einer Ausbildung als IT-Fachinformatiker alles wissen sollte um eine App in iOS mit einem PHP-Backend umsetzen zu können.
 
 # Warum iOS und PHP? 
 In meinem aktuellen Beruf arbeite ich als Team Lead iOS bei CHECK24 und meine täglichen Werkzeuge umfasst genau diesen Stack. Früher oder später kann man diesen Leitfaden gerne noch weiter auf Android, JavaScript, HTML, etc. ausbauen um noch einen tieferen Einblick gewähren zu können.
@@ -18,7 +18,7 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 ### Deklarieren von Variablen
 
 * Wie deklariere ich eine Variable?
-* Wie deklarire ich eine Konstante?
+* Wie deklariere ich eine Konstante?
 
 ### Variablen ausgeben
 
@@ -154,7 +154,7 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 ## PAP
 ## UML
 ## ERM
-## Warheitstabelle
+## Wahrheitstabelle
 
 # Vorgehensmodelle
 ## Wasserfall
@@ -164,3 +164,7 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 ## Extreme Programming
 ## Behaviour Driven Development
 ## Feature Driven Development
+
+# Konzepte
+## RAD - Rapid Application Development
+## MVC - Model View Controler
