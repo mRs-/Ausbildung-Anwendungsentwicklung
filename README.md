@@ -11,6 +11,92 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 
 ## Grundlagen
 
+### Programmausgaben
+
+### Variablen
+
+#### Deklarieren von Variablen
+
+#### Variablen ausgeben
+
+#### Integers
+
+#### Floats
+
+#### Typensicherheit
+
+#### Literals (swift only?)
+
+#### Typen Umwandlung
+
+#### Type Aliases
+
+#### Booleans
+
+#### Tuples
+
+#### Optionals
+
+### Operatoren
+
+#### Unary
+
+#### Binary
+
+#### Ternary
+
+##### Ternary Conditional Operator
+
+#### Assignemnt
+
+#### Arithmetic
+
+#### Remainder
+
+#### Compound Assignemtn Operators
+
+#### Comparison
+
+#### Nil-Coalescing (Swift only?)
+
+#### Range (Swift only?)
+
+##### Closed
+
+##### Half-Open
+
+#### Logic Operators
+
+##### Not
+
+##### And
+
+##### Or
+
+##### Combining
+
+##### Explicit Parenthesis
+
+### Kommentare
+
+### Kontrollstrukturen
+
+#### Assertions
+
+### Funktionen
+
+### Objekte und Klassen
+
+### Enums und Structs
+
+### Interfaces
+
+### Error Handling
+
+### Generics
+
+## Algorihthmen
+
 ## UIKit (iOS only)
 
 ## Design Patterns
@@ -20,3 +106,7 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 ## Reguläre Ausdrücke
 
 ## Datenbanken
+
+## GIT
+
+## Sauberen Code schreiben
