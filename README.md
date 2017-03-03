@@ -17,6 +17,9 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 
 ### Deklarieren von Variablen
 
+* Wie deklariere ich eine Variable?
+* Wie deklarire ich eine Konstante?
+
 ### Variablen ausgeben
 
 ### Integers
@@ -118,3 +121,11 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 # Server Architektur
 
 # Caching
+
+# Performance
+
+# Sorts
+
+# Threading
+
+# Promises 
