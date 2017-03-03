@@ -9,104 +9,104 @@ In meinem aktuellen Beruf arbeite ich als Team Lead iOS bei CHECK24 und meine t�
 # Module
 Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre einer Ausbildung leiten sollen, damit man alles umfassend erklärt bekommt. Es wird bei den Grundlagen angefangen, geht über erweiterte Programmierparadigmen und hört bei High Level Themen auf.
 
-## Grundlagen
+# Grundlagen
 
-### Programmausgaben
+## Programmausgaben
 
-### Variablen
+## Variablen
 
-#### Deklarieren von Variablen
+### Deklarieren von Variablen
 
-#### Variablen ausgeben
+### Variablen ausgeben
 
-#### Integers
+### Integers
 
-#### Floats
+### Floats
 
-#### Typensicherheit
+### Typensicherheit
 
-#### Literals (swift only?)
+### Literals (swift only?)
 
-#### Typen Umwandlung
+### Typen Umwandlung
 
-#### Type Aliases
+### Type Aliases
 
-#### Booleans
+### Booleans
 
-#### Tuples
+### Tuples
 
-#### Optionals
+### Optionals
 
-### Operatoren
+## Operatoren
 
-#### Unary
+### Unary
 
-#### Binary
+### Binary
 
-#### Ternary
+### Ternary
 
-##### Ternary Conditional Operator
+#### Ternary Conditional Operator
 
-#### Assignemnt
+### Assignemnt
 
-#### Arithmetic
+### Arithmetic
 
-#### Remainder
+### Remainder
 
-#### Compound Assignemtn Operators
+### Compound Assignemtn Operators
 
-#### Comparison
+### Comparison
 
-#### Nil-Coalescing (Swift only?)
+### Nil-Coalescing (Swift only?)
 
-#### Range (Swift only?)
+### Range (Swift only?)
 
-##### Closed
+#### Closed
 
-##### Half-Open
+#### Half-Open
 
-#### Logic Operators
+### Logic Operators
 
-##### Not
+#### Not
 
-##### And
+#### And
 
-##### Or
+#### Or
 
-##### Combining
+#### Combining
 
-##### Explicit Parenthesis
+#### Explicit Parenthesis
 
-### Kommentare
+## Kommentare
 
-### Kontrollstrukturen
+## Kontrollstrukturen
 
-#### Assertions
+### Assertions
 
-### Funktionen
+## Funktionen
 
-### Objekte und Klassen
+## Objekte und Klassen
 
-### Enums und Structs
+## Enums und Structs
 
-### Interfaces
+## Interfaces
 
-### Error Handling
+## Error Handling
 
-### Generics
+## Generics
 
-## Algorihtmen
+# Algorihtmen
 
-## UIKit (iOS only)
+# UIKit (iOS only)
 
-## Design Patterns
+# Design Patterns
 
-## Testing
+# Testing
 
-## Reguläre Ausdrücke
+# Reguläre Ausdrücke
 
-## Datenbanken
+# Datenbanken
 
-## GIT
+# GIT
 
-## Sauberen Code schreiben
+# Sauberen Code schreiben
