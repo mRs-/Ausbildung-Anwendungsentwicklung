@@ -149,3 +149,9 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 ## XML
 ## JSON
 ## CSV
+
+# Modelierungssprachen
+## PAP
+## UML
+## ERM
+## Warheitstabelle
