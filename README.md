@@ -95,6 +95,8 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 
 ## Generics
 
+## Intepretiert vs. Kompiliert
+
 # Algorihtmen
 
 # UIKit (iOS only)
