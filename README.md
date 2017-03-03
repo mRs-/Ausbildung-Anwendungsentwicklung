@@ -135,3 +135,10 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 # Runloops
 
 # Continous Integration
+
+# Programmierkonzepte
+## Prozedural
+## OOP
+## POP
+## FP
+## FRP 
