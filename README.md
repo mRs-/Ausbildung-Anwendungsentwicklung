@@ -30,6 +30,8 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 
 ### Floats
 
+### Double
+
 ### Typensicherheit
 
 ### Literals (swift only?)
@@ -80,7 +82,7 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 
 #### Or
 
-### XOR
+#### XOR
 
 #### Combining
 
