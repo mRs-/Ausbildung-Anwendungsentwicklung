@@ -118,6 +118,14 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 
 # Design Patterns
 
+## Architektur Patterns
+
+### MVC - Model View Controler
+
+### MVP - Model View Presenter
+
+### MVVM - Model View View Model
+
 # Testing
 
 # Reguläre Ausdrücke
@@ -152,6 +160,8 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 
 # Continous Integration
 
+# IDE
+
 # Programmierkonzepte
 ## Prozedural
 ## OOP
@@ -184,12 +194,10 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 ## Extreme Programming
 ## Behaviour Driven Development
 ## Feature Driven Development
-
-# Konzepte
 ## RAD - Rapid Application Development
-## MVC - Model View Controler
 
 
+# THEMENSPEICHER
 # iOS - Lernreihenfolge
 ## Xcode 8 - Navigieren und Interface
 ## Labels
@@ -222,4 +230,3 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 ## CoreData [schwer für Anfänger!]
 ## APIs
 ## SpriteKit
-
