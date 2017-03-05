@@ -15,9 +15,11 @@ Eine Frage wird direkt unter der Fragestellung beantwortet. Wenn es sich dabei u
 ## Beispiel
 
 ### Wie deklariere ich eine Variable?
+**swift**
 ```swift
 var foo = "bar"
 ```
+**PHP**
 ```php
 $foo = 'bar';
 ```
