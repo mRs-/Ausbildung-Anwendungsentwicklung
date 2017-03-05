@@ -92,22 +92,46 @@ $foo = 'bar';
 ## Operatoren
 
 ### Unary
+#### Was ist ein Unary Operator? Nenne mindestens ein Beispiel.
 
 ### Binary
+#### Was ist ein Binary Operator? Nenne mindestens drei Beispiele.
 
 ### Ternary
+#### Was ist ein Ternary Operator? Nenne ein Beispiel.
 
 #### Ternary Conditional Operator
 
-### Assignemnt
+### Assignment
+#### Was ist ein Assignment Operator?
+
+#### Kann man ein Assignment Operator in einer Kontrollstruktur verwenden?
 
 ### Arithmetic
+#### Was ist ein Arithmetic Operator?
 
-### Remainder 
+#### Zeige ein Beispiel mit einem Addition Operator
 
-### Compound Assignemtn Operators
+#### Zeige ein Beispiel mit einem Substraction Operator
+
+#### Zeige ein Beispiel mit einem Multiplication Operator
+
+#### Zeige ein Beispiel mit einem Division Operator
+
+#### Remainder 
+##### Was ist ein Remainder Operator?
+
+##### Wie wird der Remainder Operator sonst noch genannt?
+
+### Compound Assignment Operators
+#### Was ist ein Compound Assignment Operator?
+
+#### Zeige ein Beispiel mit einem Compound Assignment Operator
 
 ### Comparison
+#### Nenne alle Comparision Operators
+
+#### Was ist der unterschied zwischen `==` und `===`?
 
 ### Nil-Coalescing (Swift only?)
 
