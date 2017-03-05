@@ -153,10 +153,23 @@ $foo = 'bar';
 #### Wie kann man Operatoren zusammenfassen?
 
 ## Kommentare
+### Was ist ein Kommentar?
+### Wie werden Kommentare ausgezeichnet?
+### Wie Dokumentiert man Funktionen / Methoden richtig?
+### Werden Kommentare mit in das Programm kompiliert / interpretiert?
 
 ## Kontrollstrukturen
-
+### Conditional Statements
+#### If
+#### Switch
+### Schleifen
+#### Kopfgesteuerte Schleifen
+#### Fußgesteuerte Schleifen
 ### Assertions
+### Transfer Statements
+#### Continue
+#### Break
+#### Fallthrough
 
 ## Funktionen
 
