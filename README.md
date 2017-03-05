@@ -13,7 +13,6 @@ Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre ei
 Eine Frage wird direkt unter der Fragestellung beantwortet. Wenn es sich dabei um eine Frage handelt die direkt mit der Programmierung zusammenhängt sollte auch ein Code Schnipsel mit angehangen werden für Swift und PHP.
 
 ## Beispiel
-
 ### Wie deklariere ich eine Variable?
 **swift**
 ```swift
@@ -26,39 +25,69 @@ $foo = 'bar';
 # Grundlagen
 
 ## Programmausgaben
+### Wie kann ein Programm dem Nutzer Feedback auf der Konsole geben?
 
 ## Variablen
-
 ### Deklarieren von Variablen
+#### Wie deklariere ich eine Variable?
 
-* Wie deklariere ich eine Variable?
-* Wie deklariere ich eine Konstante?
+#### Wie deklariere ich eine Konstante?
+
+#### Was ist der Unterschied zwischen einer Konstanten und einer Variablen?
 
 ### Variablen ausgeben
+#### Wie gebe ich eine Variable aus?
 
-* Wie gebe ich eine Variable aus?
+#### Wie swappe die Werte zweier Variablen?
 
 ### Integers
+#### Was ist ein Integer?
 
-### Modulo
+#### Was ist der unterschied zwischen einem Signed und Unsigned Integer?
+
+#### Wie findet man die minimalen und maximalen Werte aus einem Integer raus?
 
 ### Floats
-
-### Double
+#### Was ist ein Float?
 
 ### Typensicherheit
+#### Was bedeutet Typensicherheit?
 
-### Literals (swift only?)
+#### Wie kann man die Typensicherheit in Swift umgehen?
+
+#### Wie kann man die Typensicherheit in PHP forcieren?
+
+### Literals
+#### Was sind Literals?
+
+#### Nenne mindestens drei verschiedene Typen von Literals.
 
 ### Typen Umwandlung
+#### Warum muss man typen umwandeln?
+
+#### Zeige anhand von einem Beispiel wie man zwei verschiedene Typen zu einem zusammen fasst.
 
 ### Type Aliases
+#### Was ist ein Type Alias?
+
+#### Wann wird im normalfall ein Type Alias benutzt?
 
 ### Booleans
+#### Was sind Booleans?
 
 ### Tuples
+#### Was sind Tuples?
+
+#### In welchem Anwendungsfall sollte man ein Tuple benutzen? Warum?
+
+#### In welchem Anwendusgsfall sollte man keinen Tuple benutzen? Warum?
 
 ### Optionals
+#### Was ist ein Optional?
+
+#### Was ist der Vorteil von Optionals?
+
+#### Was ist optional chaining?
 
 ## Operatoren
 
@@ -74,7 +103,7 @@ $foo = 'bar';
 
 ### Arithmetic
 
-### Remainder
+### Remainder 
 
 ### Compound Assignemtn Operators
 
@@ -133,11 +162,8 @@ $foo = 'bar';
 # Design Patterns
 
 ## Architektur Patterns
-
 ### MVC - Model View Controler
-
 ### MVP - Model View Presenter
-
 ### MVVM - Model View View Model
 
 # Testing
@@ -145,14 +171,13 @@ $foo = 'bar';
 # Reguläre Ausdrücke
 
 # Datenbanken
-## MySQL
-## MariaDB
-## FireBase
-## Oracle
-## MaxDB
+## Relational
+## Nicht-Relational
 
 # GIT
-## GitHub
+## Unterstützende Software
+### Server
+### Client
 
 # Sauberen Code schreiben
 
@@ -187,12 +212,12 @@ $foo = 'bar';
 
 # Datenformate
 ## XML
+### HTML
 ## JSON
 ## CSV
 ## YAML
 ## RDF
 ## Roher Text [.txt]
-## HTML
 
 # Modelierungssprachen
 ## PAP
