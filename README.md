@@ -9,6 +9,18 @@ In meinem aktuellen Beruf arbeite ich als Team Lead iOS bei CHECK24 und meine t�
 # Module
 Dieser Leitfaden ist in verschiedene Module aufgeteilt, die durch die 3 Jahre einer Ausbildung leiten sollen, damit man alles umfassend erklärt bekommt. Es wird bei den Grundlagen angefangen, geht über erweiterte Programmierparadigmen und hört bei High Level Themen auf.
 
+# Beantwortung von den Fragen
+Eine Frage wird direkt unter der Fragestellung beantwortet. Wenn es sich dabei um eine Frage handelt die direkt mit der Programmierung zusammenhängt sollte auch ein Code Schnipsel mit angehangen werden für Swift und PHP.
+
+## Beispiel
+
+### Wie deklariere ich eine Variable?
+```swift
+var foo = "bar"
+```
+```php
+$foo = 'bar';
+```
 # Grundlagen
 
 ## Programmausgaben
