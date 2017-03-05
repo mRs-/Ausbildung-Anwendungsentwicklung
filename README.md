@@ -134,26 +134,23 @@ $foo = 'bar';
 #### Was ist der unterschied zwischen `==` und `===`?
 
 ### Nil-Coalescing (Swift only?)
+#### Was ist der Nil-Coalescing Operator?
+#### Zeige ein Beispiel mit einem Nil-Coalescing Operator
 
 ### Range (Swift only?)
+#### Was ist ein Range Operator
 
-#### Closed
+#### Zeige ein Beispiel für eine Closed Range
 
-#### Half-Open
+#### Zeige ein Beispiel für eine Half-Open range
 
 ### Logic Operators
-
-#### Not
-
-#### And
-
-#### Or
-
-#### XOR
-
-#### Combining
-
-#### Explicit Parenthesis
+#### Für welche Typen benutzt man Logic Operators?
+#### Zeige ein Beispiel für ein NOT Operator
+#### Zeige ein Beispiel für ein AND Operator
+#### Zeige ein Beispiel für ein OR Operator
+#### Zeige ein Beispiel die alle oben genannten Operatoren miteinander verbindet.
+#### Wie kann man Operatoren zusammenfassen?
 
 ## Kommentare
 
