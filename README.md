@@ -161,6 +161,9 @@ $foo = 'bar';
 ## Kontrollstrukturen
 ### Conditional Statements
 #### If
+##### Zeige ein Beispiel für eine einfache If Bedingung
+##### Zeige ein Beispiel für eine If-Else Bedingung
+##### Zeige ein Beispiel für eine If-ElseIf-Else Bedingung
 #### Switch
 ### Schleifen
 #### Kopfgesteuerte Schleifen
