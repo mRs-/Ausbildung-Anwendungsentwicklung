@@ -165,16 +165,58 @@ $foo = 'bar';
 ##### Zeige ein Beispiel für eine If-Else Bedingung
 ##### Zeige ein Beispiel für eine If-ElseIf-Else Bedingung
 #### Switch
+##### Was ist der Vorteil von einem Switch gegenüber einem If?
+##### Wann sollte man einem Switch vorziehen?
+##### Was bedeutet break?
+##### Was sind Compound Cases?
+##### Welche unterschiede im Switch gibt es in PHP und Swift?
 ### Schleifen
 #### Kopfgesteuerte Schleifen
 #### Fußgesteuerte Schleifen
 ### Assertions
 ### Transfer Statements
-#### Continue
-#### Break
-#### Fallthrough
+#### continue
+##### Zeige ein Beispiel für ein continue statement in einer beliebigen Schleife
+##### Wann setzt man ein continue ein?
+#### break
+##### Zeige ein Beispiel für ein break statement in einer beliebigen Schleife
+##### Wann setzt man ein break in einer Schleife ein?
+##### Zeige ein Beispiel für ein break statement in einem Switch
+##### Wann setzt man ein break in einem Switch ein?
+#### fallthrough
+##### Zeige ein Beispiel für ein fallthrough statement in einem Switch
+##### Wann setzt man ein fallthrough in einem Switch ein?
+#### return
+##### Wann wird return benutzt?
+##### Was hat in Swift guard damit zu tun?
+##### Zeige ein Beispiel für ein return statement
+##### Zeige ein Beispiel für ein guard statement
+##### Was ist early return?
+##### Warum sollte man early returns benutzen?
+#### throw
+##### Wann benutzt man einen throw?
+##### Was für ein Vorteil hat ein throw?
+##### Was ist der unterschied von throw in Swift und PHP?
 
 ## Funktionen
+### Was sind Funktionen?
+### Wie deklariert man eine Funktion?
+### Wie ruft man eine Funktion auf?
+### Was sind Funktionsparameter?
+### Was sind Rückgabewerte?
+### Ist es möglich eine Funktion in einer Funktion zu deklarieren?
+### Gibt es Funktionen ohne Rückgabewerte?
+### Wie setzt man bei FUnktionsparameter Standardwerte?
+### Was sind Variadic Parameters?
+### Wie reicht man eine Referenz in eine Funktion?
+### Kann man Funktionen als Parameter übergeben?
+### Kann man Funktionen als Rückgabewert definieren?
+
+## Closures / Lambdas
+### Was sind Closures / Lambdas?
+### Wie wird ein Closure definiert?
+### Was sind häufige Anwendungsfälle für Closures / Lambdas?
+### Was ist der unterschied zwischen escaping und noesacping?
 
 ## Methoden 
 
