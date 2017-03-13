@@ -218,13 +218,59 @@ $foo = 'bar';
 ### Was sind häufige Anwendungsfälle für Closures / Lambdas?
 ### Was ist der unterschied zwischen escaping und noesacping?
 
+## Klassen und Strukturen
+### Klassen
+#### Was ist eine Klasse?
+#### Wie wird eine Klasse erzeugt?
+#### Was macht eine Klasse aus?
+#### Was für einen Typen hat eine Klasse in Swift?
+#### Was für einen Typen hat eine Klasse in PHP?
+#### Wie vererbt man eine Klasse?
+#### Wie überschreibt man eine Property?
+#### Wie überschreibt man eine Methode?
+#### Wie ruft man die Methode, die man überschrieben hat, der Eltern Klasse auf?
+### Sturkturen (swift only)
+#### Was ist eine Struktur?
+#### Wie wird eine Struktur erzeugt?
+#### Was macht eine Struktur aus?
+#### Was für einen Typen hat eine Struktur?
+### Allgemeine Fragen
+#### Was ist der Unterschied zwischen einer Klasse und einer Struktur?
+#### Was haben Strukturen und Klassen gemeinsam?
+#### Was ist eine Property?
+#### Was ist eine Methode?
+#### Wann entscheidet man sich für eine Klasse und wann für eine Struktur?
+#### Was ist eine Computed Property?
+
 ## Methoden 
+### Was ist eine Methode?
+### Was ist der Unterschied von Instanz und Typen Methoden?
+### Zeige ein Beispiel einer Instanz Methode
+### Zeige ein Beispiel für eine Typen Methode
+### Was bedeutet self / $this?
+### Was bedeutet mutating? (swift only)
+### Was ist der unterschied zwischen static und class Methoden?
 
-## Objekte und Klassen
+## Enumerations (swift only)
+### Was ist eine Enumeration?
+### Wann benutzt man eine Enumeration?
+### Zeige ein Beispiel für eine Enumeration
+### Zeige ein Beispiel mit einer Enumeration und einem Switch Statement
+### Was sind Associated Values?
+### Was ist ein Raw Value?
+### Was sind implizit gesetzte Raw Values?
+### Wie kann man ein Enum mit einem Rae Value erzeugen?
+### Wie zeichnet man eine Rekursive Enumeration aus?
+### Was hat das für Vorteile?
 
-## Enums und Structs
-
-## Collectiontypes
+## Collection Types
+### Was ist ein Array?
+### Was ist ein Set?
+### Was ist ein Dictonary?
+### Gibt es die oben genannten Collectiontypes auch in PHP?
+### Was für Vor- und Nachteile hat ein Array?
+### Was für Vor- und Nachteile hat ein Set?
+### Was für Vor- und Nachteile hat ein Dictonary?
 
 ## Interfaces
 
