@@ -271,8 +271,19 @@ $foo = 'bar';
 ### Was für Vor- und Nachteile hat ein Array?
 ### Was für Vor- und Nachteile hat ein Set?
 ### Was für Vor- und Nachteile hat ein Dictonary?
+### Was sind Mehrdimensionale Collection Types?
+### Wann benutzt man diese?
+### Zeige ein Beispiel wie man dies benutzt und wofür man es benötigt.
+### Was sind Subscripts?
+### Kann man Subcripts selbst erstellen? Wenn ja, wie?
 
 ## Interfaces
+### Was ist ein Interface?
+### Können Interfaces voneinander erben?
+### Was sind die Vorteile von einem Interface zu einer Klasse mit Vererbung?
+### Welches Design Pattern wird oft mit Interfaces in der Cocoa (Touch) Welt benutzt?
+### Ist es möglich ein Interface nur auf Klassen zu beschränken? Wenn ja welche vorteile hat dies?
+### 
 
 ## Error Handling
 
