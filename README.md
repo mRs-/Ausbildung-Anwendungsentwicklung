@@ -206,7 +206,7 @@ $foo = 'bar';
 ### Was sind Rückgabewerte?
 ### Ist es möglich eine Funktion in einer Funktion zu deklarieren?
 ### Gibt es Funktionen ohne Rückgabewerte?
-### Wie setzt man bei FUnktionsparameter Standardwerte?
+### Wie setzt man bei Funktionsparameter Standardwerte?
 ### Was sind Variadic Parameters?
 ### Wie reicht man eine Referenz in eine Funktion?
 ### Kann man Funktionen als Parameter übergeben?
