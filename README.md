@@ -38,7 +38,7 @@ $foo = 'bar';
 ### Variablen ausgeben
 #### Wie gebe ich eine Variable aus?
 
-#### Wie swappe die Werte zweier Variablen?
+#### Wie swappe ich die Werte zweier Variablen?
 
 ### Integers
 #### Was ist ein Integer?
